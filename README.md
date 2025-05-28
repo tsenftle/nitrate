@@ -1,1 +1,1 @@
-The data and calculations in this directory is published in J. Catal. 483, 115706 (2024), Theoretical insight into the NO* Coverage-Dependent selectivity of Pd and Cu electrocatalysts for nitrate reduction, by Yu Chen and Thomas P. Senftle. 
+The data and calculations in this directory are published in Journal of Catalysis, Vol. 483, Article 115706 (2024), in the study titled Theoretical Insight into the NO Coverage-Dependent Selectivity of Pd and Cu Electrocatalysts for Nitrate Reduction* by Yu Chen and Thomas P. Senftle.
