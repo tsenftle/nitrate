@@ -1,0 +1,1 @@
+The data and calculations in this directory is published in J. Catal. 483, 115706 (2024), Theoretical insight into the NO* Coverage-Dependent selectivity of Pd and Cu electrocatalysts for nitrate reduction, by Yu Chen and Thomas P. Senftle. 
